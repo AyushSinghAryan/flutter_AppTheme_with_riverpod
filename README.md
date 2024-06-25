@@ -1,4 +1,4 @@
-# learning_dart
+# flutter_AppTheme_with_riverpod
 
 A new Flutter project.
 
